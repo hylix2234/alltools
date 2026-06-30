@@ -11,7 +11,7 @@ Kumpulan alat pengujian jaringan dan *stress-testing* berskala ringan namun berk
 * `go.mod` / `go.sum` — File manajemen dependensi modul Go.
 
 ---
-
+![Screenshot](https://raw.githubusercontent.com/hylix2234/alltools/refs/heads/main/Screenshot_20260626_182247_com.termux.jpg)
 ## 🚀 Fitur Utama
 
 * **Berbasis Go:** Menawarkan kemampuan konkurensi tinggi, penggunaan memori yang efisien, dan fitur *multi-threading* bawaan.
