@@ -26,5 +26,9 @@ Kumpulan alat pengujian jaringan dan *stress-testing* berskala ringan namun berk
    ```bash
    git clone [https://github.com/hylix2234/alltools.git](https://github.com/hylix2234/alltools.git)
    cd alltools
+2. **Masuk Ke Menu**
+   ```bash
+   ./menu.sh
+   
 
 
